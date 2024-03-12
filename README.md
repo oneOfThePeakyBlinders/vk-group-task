@@ -3,12 +3,12 @@ VK-GROUP-TASK
 
 Для запуска: 
 
--git clone 'ссылка репозитория'
+- git clone 'ссылка репозитория'
 
--cd project-name
+- cd project-name
 
--npm i
+- npm i
 
--npm run dev
+- npm run dev
 
 Важное примечание: Если нужно что-то исправить, или если вы хотите дать мне какую-то рекомендацию, то напишите мне пожалуйста в telegram: @magomed_kuriev
