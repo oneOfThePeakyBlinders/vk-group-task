@@ -1,3 +1,9 @@
+export interface ApiResponse<Data> {
+    result?: 1 | 0;
+    data?: Data;
+}
+
+
 export interface GetGroupsResponse {
     result?: 1 | 0,
     data?: IGroup[],

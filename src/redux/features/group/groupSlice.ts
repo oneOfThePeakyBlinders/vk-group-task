@@ -3,7 +3,6 @@ import {GetGroupsResponse, Status} from "./types.ts";
 import {fetchGroups} from "./asyncActions.ts";
 
 const initialState: GetGroupsResponse = {
-    result: 0,
     data: [],
     status: Status.LOADING,
     privacyFilter: 'все',
