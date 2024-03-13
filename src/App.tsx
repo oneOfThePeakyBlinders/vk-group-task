@@ -46,7 +46,7 @@ const App = () => {
                             {status === 'loading' ? (
                                 <Title level='1' weight='3' style={{margin: 'auto'}}>Loading...</Title>
                             ) : status === 'error' ? (
-                                <Title level='1' weight='3' style={{margin: 'auto'}}>Error loading groups</Title>
+                                <Title level='1' weight='3' style={{margin: 'auto'}}>Error loading groups ):</Title>
                             ) : (
                                 <Group header={<Header mode="primary">Groups</Header>}>
                                     {groups?.map((val) => (
