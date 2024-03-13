@@ -1,1 +1,1 @@
-export const URL = '../../api/groups.json';
+export const URL = '/api/groups.json';
