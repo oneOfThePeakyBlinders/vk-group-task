@@ -1,7 +1,7 @@
 # React + TypeScript + ReduxToolkit + Vite
 VK-GROUP-TASK
 
-Деплой: https://vk-groups-gamma.vercel.app/
+Деплой: https://vk-group-task.vercel.app/
 
 !Если вдруг ссылка не сработает, попробуйте в папке constants раскомментировать путь к api/groups.json и запустите у себя локально
 
